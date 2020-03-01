@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## We are trying to create functions which can solve a matrix and give its inverse as the output.
+## We do this by caching the inverse of the matrix, so that we get the output quicker when we access it again. 
 
 ## This function is used to cache the matrix and also its inverse, so that when we call the function during the
 ## during the second time, we will get the response quicker.
